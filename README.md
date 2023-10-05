@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Tags: `AI for Drug Discovery`, `MLOps`, `bulk and single-cell multi-omics`, `omics-driven immunotherapy`, `adaptive immune receptor repertoires`, `Deep Learning`, `Generative AI`
+
 <!--
 **vadimnazarov/vadimnazarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
